@@ -2,7 +2,7 @@ Một số bài khác:
 
 <a href="https://github.com/NguyenHuynhQuocDat/HelloWorld">Làm quen  môi trường Android Studio và ứng dụng Android</a>
 
-<a href="https://github.com/NguyenHuynhQuocDat/Nh-p-T-n"Thiết kế giao diện người dùng với công cụ thiết kế Android Studio 3.X</a>
+<a href="https://github.com/NguyenHuynhQuocDat/Nh-p-T-n">Thiết kế giao diện người dùng với công cụ thiết kế Android Studio 3.X</a>
 
 <a href="https://github.com/NguyenHuynhQuocDat/FragmentExample">Fragments trong Android</a>
 
