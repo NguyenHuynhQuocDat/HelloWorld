@@ -18,4 +18,10 @@ Một số bài khác:
 
 <a href="https://github.com/NguyenHuynhQuocDat/maytinh">Calculator</a>
 
+<a href="https://github.com/NguyenHuynhQuocDat/Intent1">Intent1</a>
+
+<a href="https://github.com/NguyenHuynhQuocDat/Intentphan2">Intent2</a>
+
+<a href="https://github.com/NguyenHuynhQuocDat/Intent-phan3">Intent3</a>
+
 <a href="https://github.com/NguyenHuynhQuocDat/SQLiteDemoApplicationActivity">SQLite</a>
