@@ -25,6 +25,7 @@ Một số bài khác:
 <a href="https://github.com/NguyenHuynhQuocDat/SQLiteDemoApplicationActivity">Lập trình cơ sở dữ liệu Android với SQLite</a>
                
                                                       Nguyễn Huỳnh Quốc Đạt 
-                                                      Ngày 
+                                                      
+                                                      Ngày 22 tháng 33 năm 2020
                                                       
  ![image](https://wikici.com/Upload/chu-ky/chu-ky-ten-dat-lihataja-ttf.jpeg)                                                     
