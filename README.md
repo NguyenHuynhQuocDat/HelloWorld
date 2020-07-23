@@ -28,4 +28,5 @@ Một số bài khác:
                                                       
                                                       Ngày 22 tháng 33 năm 2020
                                                       
- ![image](https://wikici.com/Upload/chu-ky/chu-ky-ten-dat-lihataja-ttf.jpeg)                                                     
+ ![image](https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/109452944_2677995342457731_5439995348692516398_n.jpg?_nc_cat=102&_nc_sid=b96e70&_nc_ohc=XBHZAwc1KcgAX-Dlxv6&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=6&oh=2fb543cbea69fc9973f943695356857f&oe=5F406B00)                                                     
+
